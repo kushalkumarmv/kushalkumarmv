@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kushalkumarmv
+- 👋 Hi, I’m @kushalkumarmv ,a python enthusiastic
 - 👀 I’m interested in interships
 - 🌱 I’m currently learning .
 - 💞️ I’m looking to collaborate on coding genies
